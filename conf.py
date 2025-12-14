@@ -36,7 +36,7 @@ html_short_title = 'a11y-for-devs'
 extensions = [
     "sphinx_copybutton",
     # 'sphinxcontrib.googleanalytics',
-    "sphinx_sitemap"
+    # "sphinx_sitemap"
 ]
 
 
